@@ -1,0 +1,28 @@
+@media screen and (min-width: 481px){
+	
+
+	.tablecontainer {
+		display: table;
+		border-spacing: 5px;
+	}
+
+	.tablerow {
+		display: table-row;
+	}
+
+	.tablecell{
+		vertical-align: top;
+		display: table-cell;
+		width: 30.5%;
+		padding-left: :3%;
+		border: solid;
+		border-color: black;
+
+	}
+
+	.tablecell li{
+		list-style: none;
+		text-align: left;
+		padding-left: 3%;
+	}
+}
