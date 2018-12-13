@@ -1,0 +1,26 @@
+@media screen and (max-width: 480px){
+	header li{
+		float: none;
+		padding:0 5px 0 5px;
+	}
+	#boxes .box{
+	float: none;
+	width: auto;
+	}
+	#showcase {
+		max-height: 350px;
+	}
+	#showcase h1{
+		font-size: 2.5em;
+
+	}
+
+	#awards, #skills {
+		width: auto;
+	}
+	.tablecell {
+		border: solid;
+		border-color: black;
+		margin-bottom:1%;
+	}
+}
